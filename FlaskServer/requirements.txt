@@ -1,0 +1,6 @@
+torchvision
+Flask
+torch
+torchvision
+Pillow
+python-dotenv

@@ -1,2 +1,2 @@
 # FlyAway
-Repository for course project CSCB634
+Can the butter fly away? 🧈🦋 
